@@ -1,12 +1,4 @@
-<!--
-  ============================================================================
-  PROFILE README  —  goes in a repository named exactly:  mpozz98
-  ----------------------------------------------------------------------------
-  github.com → New repository → name it `mpozz98` → Public →
-  tick "Add a README file" → Create → replace the contents with this file.
-  GitHub then renders it at the top of github.com/mpozz98
-  ============================================================================
--->
+
 
 # Hi, I'm Giorgos Stefanidis 👋
 
